@@ -1,0 +1,4 @@
+PyQt6>=6.5
+httpx>=0.26
+openai>=1.12
+psutil>=5.9
